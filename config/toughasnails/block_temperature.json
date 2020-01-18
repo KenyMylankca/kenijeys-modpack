@@ -1,0 +1,64 @@
+[
+  {
+    "state": {
+      "block": "toughasnails:campfire",
+      "properties": {
+        "burning": "true"
+      }
+    },
+    "temperature": 9.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lit_furnace",
+      "properties": {}
+    },
+    "temperature": 9.0
+  },
+  {
+    "state": {
+      "block": "minecraft:lava",
+      "properties": {}
+    },
+    "temperature": 15.0
+  },
+  {
+    "state": {
+      "block": "minecraft:flowing_lava",
+      "properties": {}
+    },
+    "temperature": 13.0
+  },
+  {
+    "state": {
+      "block": "minecraft:magma",
+      "properties": {}
+    },
+    "temperature": 10.5
+  },
+  {
+    "state": {
+      "block": "minecraft:torch",
+      "properties": {
+        "facing": "*"
+      }
+    },
+    "temperature": 1.0
+  },
+  {
+    "state": {
+      "block": "tconstruct:stone_torch",
+      "properties": {
+        "facing": "*"
+      }
+    },
+    "temperature": 1.0
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:hot_spring_water",
+      "properties": {}
+    },
+    "temperature": 3.0
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "internalOreName": "dungeontactics:mithril_ore",
+    "meta": 0,
+    "overlay": "undergroundbiomes:blocks/overlays/grimpack/black_diamond_ore",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  }
+]

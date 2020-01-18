@@ -1,0 +1,237 @@
+{
+  "gems": {
+    "type": "sphere",
+    "ore": [
+      {
+        "block": "minecraft:coal_ore",
+        "weight": 150
+      },
+      {
+        "block": "minecraft:diamond_ore",
+        "weight": 6
+      },
+	  {
+        "block": "minecraft:emerald_ore",
+        "weight": 3
+      }
+    ],
+    "stone": "minecraft:stone",
+    "rarity": 50,
+    "min_y": 10,
+    "max_y": 100,
+    "density": 210,
+    "vertical_size": 12,
+    "horizontal_size": 12
+  },
+  
+  "energy_stone": {
+    "type": "cone",
+    "ore": [
+      {
+        "block": "minecraft:redstone_ore",
+        "weight": 17
+      },
+	  {
+        "block": "appliedenergistics2:charged_quartz_ore",
+        "weight": 1
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 50,
+    "min_y": 10,
+    "max_y": 66,
+    "density": 160,
+    "vertical_size": 31,
+    "horizontal_size": 9
+  },
+  
+  "white_stone": {
+    "type": "pipe",
+    "ore": [
+      {
+        "block": "appliedenergistics2:quartz_ore",
+        "weight": 1
+      },
+	  {
+        "block": "actuallyadditions:block_misc",
+        "weight": 5,
+		"meta": 3
+      },
+	  {
+        "block": "nuclearcraft:ore",
+        "weight": 2,
+		"meta": 6
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 50,
+    "min_y": 10,
+    "max_y": 70,
+    "density": 150,
+    "vertical_size": 22,
+    "horizontal_size": 7
+  },
+  
+  "lapis": {
+    "type": "cone",
+    "ore": [
+	  {
+        "block": "minecraft:lapis_ore",
+        "weight": 2
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 40,
+    "min_y": 10,
+    "max_y": 24,
+    "density": 130,
+    "vertical_size": 3,
+    "horizontal_size": 25
+  },
+  
+  "metal-expensive": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "minecraft:gold_ore",
+        "weight": 1
+      },
+	  {
+        "block": "techreborn:ore2",
+        "weight": 5,
+		"meta": 0
+      },
+	  {
+        "block": "nuclearcraft:ore",
+        "weight": 2,
+		"meta": 3
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 50,
+    "min_y": 30,
+    "max_y": 50,
+    "density": 120,
+    "vertical_size": 23,
+    "horizontal_size": 22
+  },
+  
+  "metal-normal": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "techreborn:ore",
+        "weight": 2,
+		"meta": 13
+      },
+	  {
+        "block": "techreborn:ore",
+        "weight": 3,
+		"meta": 0
+      },
+	  {
+        "block": "dungeontactics:mithril_ore",
+        "weight": 1,
+		"meta": 0
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 55,
+    "min_y": 31,
+    "max_y": 48,
+    "density": 130,
+    "vertical_size": 13,
+    "horizontal_size": 12
+  },
+  
+  "metal-cheap": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "minecraft:iron_ore",
+        "weight": 1
+      },
+	  {
+        "block": "techreborn:ore2",
+        "weight": 1,
+		"meta": 1
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 50,
+    "min_y": 30,
+    "max_y": 45,
+    "density": 170,
+    "vertical_size": 18,
+    "horizontal_size": 17
+  },
+  
+  "mineral": {
+    "type": "cone",
+    "ore": [
+	  {
+        "block": "nuclearcraft:ore",
+        "weight": 1,
+		"meta": 5
+      },
+	  {
+        "block": "nuclearcraft:ore",
+        "weight": 1,
+		"meta": 7
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 50,
+    "min_y": 60,
+    "max_y": 74,
+    "density": 130,
+    "vertical_size": 3,
+    "horizontal_size": 22
+  },
+  
+  "metal-deep": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "techreborn:ore",
+        "weight": 2,
+		"meta": 12
+      },
+	  {
+        "block": "techreborn:ore",
+        "weight": 1,
+		"meta": 4
+      },
+	  {
+        "block": "galacticraftcore:basic_block_core",
+        "weight": 2,
+		"meta": 8
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 50,
+    "min_y": 15,
+    "max_y": 35,
+    "density": 140,
+    "vertical_size": 18,
+    "horizontal_size": 19
+  },
+  
+  "radioactive": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "nuclearcraft:ore",
+        "weight": 1,
+		"meta": 4
+      }
+	],
+    "stone": "minecraft:stone",
+    "rarity": 45,
+    "min_y": 5,
+    "max_y": 25,
+    "density": 110,
+    "vertical_size": 11,
+    "horizontal_size": 14
+  }
+}

@@ -1,0 +1,26 @@
+modpack version: 1.4.2.1
+
+commands to reduce .git folder size:
+git bash
+git gc --aggressive --prune
+
+todo/fix:
+freeze issue(s) (memory or cpu?)
+death bug?
+finite water when pretty beaches support bucket?
+
+ORES:
+magnesium (surface) & boron			OK
+
+all gems (diamond, emerald, coal, ruby etc...)	OK
+copper & gold & thorium				OK
+not charged quartz & black quartz& lithium	OK
+
+silver & galena					OK
+iron & tin					OK
+
+lapis						OK
+redstone & charged certus			OK
+
+bauxite & lead & silicon			OK
+uranium (deep)					OK
