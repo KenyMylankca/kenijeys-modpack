@@ -1,11 +1,10 @@
-modpack version: 1.4.3
+modpack version: 1.4.3.1
 
 commands to reduce .git folder size:
 git bash
 git gc --aggressive --prune
 
 todo/fix:
-chance cubes to be fixed the mp(LAN) crash
 death bug?
 finite water when pretty beaches support bucket?
 
