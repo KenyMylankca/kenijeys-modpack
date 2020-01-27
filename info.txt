@@ -5,9 +5,7 @@ git bash
 git gc --aggressive --prune
 
 todo/fix:
-inventory tweaks game freeze&lag?
-death bug?
-finite water when pretty beaches support bucket?
+finite water when pretty beaches support bucket
 
 ORES:
 magnesium (surface) & boron			OK
