@@ -162,6 +162,7 @@ key_key.dragon_fireAttack:79
 key_key.dragon_strike:80
 key_key.dragon_down:81
 key_key.dragon_change_view:65
+key_invtweaks.key.sort:0
 key_key.plustic_release_entity.desc:11
 key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
