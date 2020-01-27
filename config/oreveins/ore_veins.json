@@ -40,7 +40,7 @@
     "rarity": 50,
     "min_y": 10,
     "max_y": 66,
-    "density": 160,
+    "density": 150,
     "vertical_size": 31,
     "horizontal_size": 9
   },
@@ -67,7 +67,7 @@
     "rarity": 50,
     "min_y": 10,
     "max_y": 70,
-    "density": 150,
+    "density": 140,
     "vertical_size": 22,
     "horizontal_size": 7
   },
@@ -84,7 +84,7 @@
     "rarity": 40,
     "min_y": 10,
     "max_y": 24,
-    "density": 130,
+    "density": 120,
     "vertical_size": 3,
     "horizontal_size": 25
   },
@@ -111,7 +111,7 @@
     "rarity": 50,
     "min_y": 30,
     "max_y": 50,
-    "density": 120,
+    "density": 110,
     "vertical_size": 23,
     "horizontal_size": 22
   },
@@ -139,7 +139,7 @@
     "rarity": 55,
     "min_y": 31,
     "max_y": 48,
-    "density": 130,
+    "density": 120,
     "vertical_size": 13,
     "horizontal_size": 12
   },
@@ -161,7 +161,7 @@
     "rarity": 50,
     "min_y": 30,
     "max_y": 45,
-    "density": 170,
+    "density": 160,
     "vertical_size": 18,
     "horizontal_size": 17
   },
@@ -184,7 +184,7 @@
     "rarity": 50,
     "min_y": 60,
     "max_y": 74,
-    "density": 130,
+    "density": 120,
     "vertical_size": 3,
     "horizontal_size": 22
   },
@@ -212,7 +212,7 @@
     "rarity": 50,
     "min_y": 15,
     "max_y": 35,
-    "density": 140,
+    "density": 130,
     "vertical_size": 18,
     "horizontal_size": 19
   },
@@ -230,7 +230,7 @@
     "rarity": 45,
     "min_y": 5,
     "max_y": 25,
-    "density": 110,
+    "density": 100,
     "vertical_size": 11,
     "horizontal_size": 14
   }
