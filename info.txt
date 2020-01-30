@@ -1,12 +1,14 @@
-modpack version: 1.4.4.2
+modpack version: 1.4.4.3 (beta)
 
 commands to reduce .git folder size:
 git bash
 git gc --aggressive --prune
 
-todo/fix:
-game freeze sometimes? :l
+
+todo/fix/info:
+hopefully fixed the world leak (server freeze) problem, but need to test
 finite water when pretty beaches support bucket
+
 
 ORES:
 magnesium (surface) & boron			OK
