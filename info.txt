@@ -6,8 +6,8 @@ git gc --aggressive --prune
 
 
 todo/fix/info:
+world lake bug
 death bug(no key or grave or both)
-hopefully fixed the world leak (server freeze) problem, but need to test
 finite water when pretty beaches support bucket
 
 
