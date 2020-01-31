@@ -6,7 +6,6 @@ git gc --aggressive --prune
 
 
 todo/fix/info:
-world lake bug
 death bug(no key or grave or both)
 finite water when pretty beaches support bucket
 
