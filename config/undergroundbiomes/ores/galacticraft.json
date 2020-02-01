@@ -1,0 +1,10 @@
+[
+  {
+    "internalOreName": "galacticraftcore:basic_block_core",
+    "meta": 8,
+    "overlay": "undergroundbiomes:blocks/overlays/astralsorcery/starmetal",
+    "lightValue": -1,
+    "alphaOverlay": false,
+    "oreDirectories": []
+  }
+]
