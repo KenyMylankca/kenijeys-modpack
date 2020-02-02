@@ -19,9 +19,9 @@
     "rarity": 50,
     "min_y": 10,
     "max_y": 100,
-    "density": 200,
+    "density": 250,
     "vertical_size": 12,
-    "horizontal_size": 12
+    "horizontal_size": 13
   },
   
   "energy_stone": {
@@ -29,7 +29,7 @@
     "ore": [
       {
         "block": "minecraft:redstone_ore",
-        "weight": 17
+        "weight": 15
       },
 	  {
         "block": "appliedenergistics2:charged_quartz_ore",
@@ -39,7 +39,7 @@
     "stone": "minecraft:stone",
     "rarity": 50,
     "min_y": 10,
-    "max_y": 66,
+    "max_y": 55,
     "density": 140,
     "vertical_size": 31,
     "horizontal_size": 9
@@ -81,7 +81,7 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 40,
+    "rarity": 45,
     "min_y": 10,
     "max_y": 24,
     "density": 110,
@@ -108,7 +108,7 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 50,
+    "rarity": 60,
     "min_y": 30,
     "max_y": 50,
     "density": 90,
@@ -158,7 +158,7 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 50,
+    "rarity": 60,
     "min_y": 30,
     "max_y": 45,
     "density": 150,
@@ -181,7 +181,7 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 50,
+    "rarity": 55,
     "min_y": 60,
     "max_y": 74,
     "density": 120,
@@ -194,23 +194,23 @@
     "ore": [
       {
         "block": "techreborn:ore",
-        "weight": 1,
+        "weight": 4,
 		"meta": 12
       },
 	  {
         "block": "techreborn:ore",
-        "weight": 1,
+        "weight": 5,
 		"meta": 4
       },
 	  {
         "block": "galacticraftcore:basic_block_core",
-        "weight": 1,
+        "weight": 3,
 		"meta": 8
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 50,
-    "min_y": 15,
+    "rarity": 55,
+    "min_y": 14,
     "max_y": 35,
     "density": 130,
     "vertical_size": 18,
@@ -227,11 +227,11 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 45,
-    "min_y": 5,
-    "max_y": 25,
-    "density": 100,
-    "vertical_size": 11,
-    "horizontal_size": 14
+    "rarity": 60,
+    "min_y": 14,
+    "max_y": 40,
+    "density": 200,
+    "vertical_size": 10,
+    "horizontal_size": 13
   }
 }
