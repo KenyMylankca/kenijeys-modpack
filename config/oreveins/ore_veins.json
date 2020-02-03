@@ -4,7 +4,7 @@
     "ore": [
       {
         "block": "minecraft:coal_ore",
-        "weight": 150
+        "weight": 157
       },
       {
         "block": "minecraft:diamond_ore",
@@ -20,8 +20,8 @@
     "min_y": 10,
     "max_y": 100,
     "density": 250,
-    "vertical_size": 14,
-    "horizontal_size": 13
+    "vertical_size": 15,
+    "horizontal_size": 15
   },
   
   "energy_stone": {
