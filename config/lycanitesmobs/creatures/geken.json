@@ -6,7 +6,7 @@
   ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityGeken",
   "modelClass": "com.lycanitesmobs.client.model.creature.ModelGeken",
-  "loadDefault": true,
+  "loadDefault": false,
   "enabled": true,
   "spawning": {
     "enabled": true,
@@ -38,7 +38,7 @@
   },
   "width": 0.6,
   "height": 1.9,
-  "experience": 5,
+  "experience": 40,
   "health": 20,
   "defense": 0,
   "armor": 0,
