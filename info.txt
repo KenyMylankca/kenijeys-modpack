@@ -7,8 +7,8 @@ git gc --aggressive --prune
 
 todo/fix/info:
 world leaked bug?...
-invisible aegis?
-death bug(no key or grave or both)
+invisible aegis => disabled
+death bug(no key or grave or both)?
 finite water when pretty beaches support bucket
 
 
