@@ -1,4 +1,4 @@
-modpack version: 1.5
+modpack version: 1.5.1
 
 commands to reduce .git folder size:
 git bash
@@ -6,7 +6,6 @@ git gc --aggressive --prune
 
 
 todo/fix/info:
-animated terrain fps drop?
 world leaked bug?...
 invisible aegis => disabled
 death bug(no key or grave or both)?
