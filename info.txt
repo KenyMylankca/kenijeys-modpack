@@ -1,4 +1,4 @@
-modpack version: 1.4.11
+modpack version: 1.5
 
 commands to reduce .git folder size:
 git bash
@@ -6,10 +6,11 @@ git gc --aggressive --prune
 
 
 todo/fix/info:
+animated terrain fps drop?
 world leaked bug?...
 invisible aegis => disabled
 death bug(no key or grave or both)?
-finite water when pretty beaches support bucket
+finite water when pretty beaches support bucket?..
 
 
 ORES:
