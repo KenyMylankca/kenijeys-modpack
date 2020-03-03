@@ -1,13 +1,15 @@
-#Tue Mar 03 15:24:56 EET 2020
+#Tue Mar 03 15:55:05 EET 2020
 Adaptive_sharpening=true
 animationSpeed=0.25
-Brightness=1.4
+Brightness=1.2
 Cloud_reflection=false
 Clouds=0
 Cloudsblur=false
 Contrast=3.0
 customStars=false
+defskybox=true
 grass_shadows=false
+Moonlight=0.0
 Rain_Drops=false
 Refraction=false
 shadow_samples=13
@@ -15,6 +17,10 @@ shadowDistance=90.0
 shadowMapResolution=1024
 TAA_quality=1
 Volumetric_Lighting=false
+waterA=5.0
+waterCB=0.175
+waterCG=0.15
+WaterParallax=false
 Waving_Fire=false
 Waving_Vines=false
 Waving_Water=false
