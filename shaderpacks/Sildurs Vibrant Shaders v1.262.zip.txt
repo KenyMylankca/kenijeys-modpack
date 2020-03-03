@@ -1,7 +1,15 @@
-#Mon Mar 02 14:37:40 EET 2020
+#Tue Mar 03 15:24:56 EET 2020
 Adaptive_sharpening=true
 animationSpeed=0.25
+Brightness=1.4
+Cloud_reflection=false
+Clouds=0
+Cloudsblur=false
+Contrast=3.0
+customStars=false
 grass_shadows=false
+Rain_Drops=false
+Refraction=false
 shadow_samples=13
 shadowDistance=90.0
 shadowMapResolution=1024
