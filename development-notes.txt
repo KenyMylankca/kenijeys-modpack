@@ -1,11 +1,11 @@
-modpack version: 1.5.1
+modpack version: 1.5.2
 
 commands to reduce .git folder size:
 git bash
 git gc --aggressive --prune
 
 
-todo/fix/info:
+to-do/to-fix/info:
 world leaked bug?...
 invisible aegis => disabled
 death bug(no key or grave or both)?
