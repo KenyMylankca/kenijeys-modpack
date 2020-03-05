@@ -1,8 +1,7 @@
-#Thu Mar 05 13:39:49 EET 2020
+#Thu Mar 05 14:56:28 EET 2020
 animationSpeed=0.25
 gamma=2.3
 Godrays=true
-grays_quality=2
 Refractions=true
 slight=0.60
 sunPathRotation=-0.15f
