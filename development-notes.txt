@@ -1,9 +1,8 @@
-modpack version: 1.5.3
+modpack version: 1.5.4
 
 commands to reduce .git folder size:
 git bash
 git gc --aggressive --prune
-
 
 to-do/to-fix/info:
 world leaked bug?...
@@ -11,7 +10,6 @@ invisible aegis => disabled
 death bug(no key and grave) that happens rarely
 finite water when pretty beaches support bucket?..
 dynamic trees will replace chopdown and passableleaves when forestry and sugi compat
-
 
 ORES:
 magnesium (surface) & boron			OK
