@@ -1,5 +1,5 @@
 #Mon Mar 02 14:37:43 EET 2020
-shaderPack=Sildurs Vibrant Shaders v1.262.zip
+shaderPack=Sildurs Enhanced Default v1.10.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
