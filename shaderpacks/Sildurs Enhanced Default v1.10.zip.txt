@@ -1,12 +1,10 @@
-#Thu Mar 05 14:56:28 EET 2020
+#Fri Mar 06 15:41:27 EET 2020
 animationSpeed=0.25
 gamma=2.3
 Godrays=true
 Refractions=true
 slight=0.60
 sunPathRotation=-0.15f
-TAA=true
-TAA_quality=1
 Tonemap=true
 Waving_Fire=false
 Waving_Leaves=false
