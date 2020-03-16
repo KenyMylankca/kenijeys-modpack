@@ -13,7 +13,7 @@ maxFps:260
 fboEnable:true
 difficulty:2
 fancyGraphics:true
-ao:2
+ao:1
 renderClouds:false
 resourcePacks:["stacked.zip","3dmodels.zip","special.zip"]
 incompatibleResourcePacks:[]
