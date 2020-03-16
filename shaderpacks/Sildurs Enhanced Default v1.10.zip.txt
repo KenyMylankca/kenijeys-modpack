@@ -7,6 +7,7 @@ sunPathRotation=-0.15f
 Tonemap=true
 TransparentReflections=false
 waterTex=false
+waves_amplitude=0.55
 Waving_Fire=false
 Waving_Leaves=false
 Waving_Vines=false
