@@ -192,8 +192,8 @@ key_gui.xaero_zoom_out:74
 key_gui.xaero_new_waypoint:55
 key_gui.xaero_display_all_sets:0
 key_gui.xaero_minimap_settings:0
-soundCategory_master:0.7
-soundCategory_music:0.3
+soundCategory_master:0.80463576
+soundCategory_music:0.8028169
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
