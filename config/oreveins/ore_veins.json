@@ -84,7 +84,7 @@
     "rarity": 60,
     "min_y": 10,
     "max_y": 24,
-    "density": 110,
+    "density": 100,
     "vertical_size": 3,
     "horizontal_size": 25
   },
