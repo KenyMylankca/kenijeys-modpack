@@ -4,11 +4,11 @@
     "ore": [
       {
         "block": "minecraft:coal_ore",
-        "weight": 157
+        "weight": 140
       },
       {
         "block": "minecraft:diamond_ore",
-        "weight": 6
+        "weight": 5
       },
 	  {
         "block": "minecraft:emerald_ore",
