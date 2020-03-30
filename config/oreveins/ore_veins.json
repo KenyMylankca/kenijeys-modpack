@@ -19,9 +19,9 @@
     "rarity": 50,
     "min_y": 10,
     "max_y": 100,
-    "density": 250,
+    "density": 300,
     "vertical_size": 15,
-    "horizontal_size": 15
+    "horizontal_size": 16
   },
   
   "energy_stone": {
