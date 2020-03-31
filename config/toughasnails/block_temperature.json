@@ -60,5 +60,26 @@
       "properties": {}
     },
     "temperature": 3.0
+  },
+  {
+    "state": {
+      "block": "minecraft:packed_ice",
+      "properties": {}
+    },
+    "temperature": -12.0
+  },
+  {
+    "state": {
+      "block": "minecraft:ice",
+      "properties": {}
+    },
+    "temperature": -7.0
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:hard_ice",
+      "properties": {}
+    },
+    "temperature": -10.0
   }
 ]
