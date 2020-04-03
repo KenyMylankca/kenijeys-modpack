@@ -129,6 +129,7 @@ key_key.backpackloader.load:0
 key_keys.techreborn.config:0
 key_binniecore.key.hold.for.help.tooltips:15
 key_key.carry.desc:29
+key_Reputation GUI:62
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
 key_key.craftingtweaks.balance:0
