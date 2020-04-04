@@ -104,7 +104,6 @@ key_key.summoning:0
 key_key.minions:0
 key_Toggle StepUp:0
 key_key.pickup.item:0
-key_key.reveal:71
 key_key.toggle_focus.desc:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
