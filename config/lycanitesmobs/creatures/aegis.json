@@ -1,10 +1,13 @@
 {
   "name": "aegis",
   "creatureType": "elemental",
+  "groups": [
+    "guardian"
+  ],
   "entityClass": "com.lycanitesmobs.core.entity.creature.EntityAegis",
-  "modelClass": "com.lycanitesmobs.core.model.creature.ModelAegis",
-  "loadDefault": false,
-  "enabled": false,
+  "modelClass": "com.lycanitesmobs.client.model.creature.ModelAegis",
+  "loadDefault": true,
+  "enabled": true,
   "spawning": {
     "enabled": true,
     "spawners": [],
@@ -12,12 +15,12 @@
     "dimensionIds": [],
     "dimensionListType": "blacklist",
     "ignoreBiome": false,
-    "biomes": [],
+    "biomeTags": [],
     "spawnWeight": 8,
-    "dungeonWeight": 200,
     "spawnAreaLimit": 1,
-    "spawnGroupMin": 0,
     "spawnGroupMax": 1,
+    "dungeonWeight": 0,
+    "spawnGroupMin": 1,
     "spawnsInLight": false,
     "spawnsInDark": true,
     "worldDayMin": -1,
@@ -43,14 +46,19 @@
   "eggForeColor": "#f1f0dc",
   "subspecies": [
     {
-      "index": 1,
-      "name": "russet",
-      "type": "uncommon"
-    },
-    {
-      "index": 2,
-      "name": "dark",
-      "type": "uncommon"
+      "index": 0,
+      "variants": [
+        {
+          "index": 1,
+          "name": "russet",
+          "type": "uncommon"
+        },
+        {
+          "index": 2,
+          "name": "dark",
+          "type": "uncommon"
+        }
+      ]
     }
   ],
   "element": "order",
