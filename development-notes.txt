@@ -5,6 +5,7 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+realistic blocks: crashed once, find acacia killing conflicting mod
 world leaked bug?...
 invisible aegis => disabled
 death bug(no key and grave) that happens rarely?..
