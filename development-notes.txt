@@ -5,13 +5,19 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-galaxy space compatibility with gc 280
 realistic blocks: crashes(w/ GC, etc?), recurrent complex compatiblity(acacia trees)
 world leaked bug?...
-invisible aegis => disabled
-death bug(no key and grave) that happens rarely?..
+invisible aegis => disabled ?
 finite water when pretty beaches support bucket?..
-dynamic trees will replace chopdown and passableleaves when forestry and sugi compat
+dynamic trees:
+- will replace chopdown and passableleaves
+-find other mods add trees
+1-biomes o' plenty	DONE
+2-harvestcraft		DONE
+3-extra utilities	DONE
+4-tinkers		DONE
+5-tech reborn		
+6-sugi forest		DONE
 
 ORES:
 magnesium (surface) & boron			OK
