@@ -9,6 +9,7 @@ realistic blocks: crashes(w/ GC, etc?), recurrent complex compatiblity(acacia tr
 world leaked bug?...
 invisible aegis => disabled ?
 finite water when pretty beaches support bucket?..
+
 dynamic trees:
 - will replace chopdown and passableleaves
 -find other mods add trees
