@@ -1,13 +1,12 @@
-modpack version: 1.6.10
+modpack version: 1.7 (beta)
 
 commands to reduce .git folder size:
 git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-realistic blocks: crashes(w/ GC, etc?), recurrent complex compatiblity(acacia trees)
+realistic blocks: crashes: galacticraft? needs more debugging/testing
 world leaked bug?...
-invisible aegis => disabled ?
 finite water when pretty beaches support bucket?..
 
 dynamic trees:
