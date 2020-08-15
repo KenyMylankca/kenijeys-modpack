@@ -18,6 +18,7 @@ dynamic trees:
 4-tinkers		DONE
 5-tech reborn		
 6-sugi forest		DONE
+7-forestry		DONE
 
 ORES:
 magnesium (surface) & boron			OK
