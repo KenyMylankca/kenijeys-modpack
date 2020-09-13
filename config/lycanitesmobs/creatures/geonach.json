@@ -108,7 +108,7 @@
     {
       "item": "minecraft:diamond",
       "minAmount": 1,
-      "maxAmount": 3,
+      "maxAmount": 1,
       "chance": 1,
       "variant": 3
     },
