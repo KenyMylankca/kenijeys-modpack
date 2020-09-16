@@ -1507,5 +1507,105 @@
     "thirst": 1,
     "hydration": 0.7,
     "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:edibles",
+      "metadata": 2
+    },
+    "thirst": 1,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:edibles",
+      "metadata": 3
+    },
+    "thirst": 1,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:edibles",
+      "metadata": 4
+    },
+    "thirst": 1,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:edibles",
+      "metadata": 5
+    },
+    "thirst": 1,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:edibles",
+      "metadata": 9
+    },
+    "thirst": 3,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:edibles",
+      "metadata": 11
+    },
+    "thirst": 1,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:soups",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:soups",
+      "metadata": 1
+    },
+    "thirst": 2,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:soups",
+      "metadata": 2
+    },
+    "thirst": 2,
+    "hydration": 0.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "natura:soups",
+      "metadata": 3
+    },
+    "thirst": 2,
+    "hydration": 0.7,
+    "poisonChance": 0.0
   }
 ]
