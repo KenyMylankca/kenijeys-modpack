@@ -7,7 +7,6 @@ git gc --aggressive --prune
 to-do/to-fix/info:
 LAGS
 world leaked bug?...
-finite water when pretty beaches support bucket?..
 
 		 ORE GENERATION
 magnesium (surface) & boron			OK
