@@ -107,24 +107,6 @@ key_key.pets:0
 key_key.summoning:0
 key_key.minions:0
 key_Toggle StepUp:0
-key_key.microraptor_dismount:0
-key_key.vehicle_helicopter.up:0
-key_key.vehicle_helicopter.down:0
-key_key.vehicle_helicopter.third_person_view_zoom_in:0
-key_key.vehicle_helicopter.third_person_view_zoom_out:0
-key_key.vehicle_helicopter.autopilot:0
-key_key.vehicle_helicopter.lock:0
-key_key.vehicle_helicopter.rotate_left:203
-key_key.vehicle_helicopter.rotate_right:205
-key_key.vehicle_0.switch:0
-key_key.vehicle_1.switch:0
-key_key.vehicle_2.switch:0
-key_key.vehicle_3.switch:0
-key_key.vehicle_4.switch:0
-key_key.vehicle_5.switch:0
-key_key.vehicle_6.switch:0
-key_key.vehicle_7.switch:0
-key_key.vehicle_8.switch:0
 key_key.pickup.item:0
 key_key.toggle_focus.desc:0
 key_key.backpacks.permission:0
@@ -182,7 +164,7 @@ key_key.dragon_fireAttack:79
 key_key.dragon_strike:80
 key_key.dragon_down:81
 key_key.dragon_change_view:65
-key_invtweaks.key.sort:0
+key_invtweaks.key.sort:21
 key_Mo' Bends Menu:0
 key_Refresh Animations:68
 key_key.plustic_release_entity.desc:11
