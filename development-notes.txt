@@ -5,8 +5,12 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-LAGS
 world leaked bug?...
+
+RBP:
+GC crash?
+blacklist all leaves and dynamic tree things
+leaves floating?
 
 		 ORE GENERATION
 magnesium (surface) & boron			OK
