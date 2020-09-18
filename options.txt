@@ -89,6 +89,7 @@ key_of.key.zoom:46
 key_key.conarm.toggle_helm.desc:20
 key_key.conarm.toggle_chest.desc:25
 key_key.conarm.toggle_leg.desc:34
+key_doubleslabs.key.toggleVerticalSlabPlacement:58
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:35
 key_[GC] Toggle Sensor Goggles Mode:47
