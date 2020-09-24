@@ -5,6 +5,7 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+double slabs crash fix
 world leaked bug?...
 
 RBP:
