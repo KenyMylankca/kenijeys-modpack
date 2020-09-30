@@ -92,7 +92,6 @@ key_[GC] Toggle Sensor Goggles Mode:47
 key_key.conarm.toggle_helm.desc:20
 key_key.conarm.toggle_chest.desc:25
 key_key.conarm.toggle_leg.desc:34
-key_doubleslabs.key.toggleVerticalSlabPlacement:58
 key_key.xu2.searchforitems:0
 key_keybind.togglehelmet.name:72
 key_keybind.togglechest.name:76
