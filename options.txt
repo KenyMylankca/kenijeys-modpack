@@ -146,7 +146,6 @@ key_key.craftingtweaks.decompressStack:0
 key_key.craftingtweaks.decompressAll:0
 key_key.craftingtweaks.refill_last:0
 key_key.craftingtweaks.refill_last_stack:0
-key_key.openConfig:0
 key_key.dungeontactics.rocketjump.desc:0
 key_key.dungeontactics.shieldbash.desc:0
 key_key.dungeontactics.trinket1.desc:41
