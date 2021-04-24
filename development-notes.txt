@@ -5,7 +5,7 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-update creativeMD mods, animania
+update creativeMD mods
 remove backpacks, use other mods one..
 world leaked bug?...
 
