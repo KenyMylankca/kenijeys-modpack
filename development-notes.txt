@@ -5,6 +5,8 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+update ambient sounds..
+remove backpacks, use other mods one..
 world leaked bug?...
 
 RBP:
