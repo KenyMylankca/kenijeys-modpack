@@ -1,0 +1,13 @@
+#Mon Mar 16 15:49:18 EET 2020
+animationSpeed=0.25
+gamma=2.3
+Godrays=true
+Refractions=true
+sunPathRotation=-0.15f
+Tonemap=true
+TransparentReflections=false
+waterTex=false
+waves_amplitude=0.55
+Waving_Fire=false
+Waving_Leaves=false
+Waving_Vines=false
