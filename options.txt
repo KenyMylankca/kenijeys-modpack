@@ -97,15 +97,6 @@ key_keybind.togglehelmet.name:72
 key_keybind.togglechest.name:76
 key_keybind.togglelegs.name:75
 key_keybind.toggleboots.name:77
-key_key.mount.dismount:0
-key_key.mount.descend:0
-key_key.mount.ability:0
-key_key.mount.inventory:0
-key_key.index:0
-key_key.beastiary:0
-key_key.pets:0
-key_key.summoning:0
-key_key.minions:0
 key_Toggle StepUp:0
 key_key.pickup.item:0
 key_key.narrator:0
@@ -121,6 +112,12 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
+key_key.backpacks.permission:0
+key_key.backpacks.openfirst:48
+key_key.pickItem:-98
+key_key.backpackloader.edit:0
+key_key.backpackloader.pause:197
+key_key.backpackloader.load:0
 key_keys.techreborn.config:0
 key_binniecore.key.hold.for.help.tooltips:15
 key_key.carry.desc:29
