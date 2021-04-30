@@ -5,6 +5,7 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+add old recipes back
 world leaked bug?...
 
 RBP:
