@@ -5,7 +5,6 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-fix pretty beaches crash when get lava with bucket from far
 add old recipes back
 world leaked bug?...
 
