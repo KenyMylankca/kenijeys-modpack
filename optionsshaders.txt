@@ -1,5 +1,5 @@
 #Sat Mar 14 15:53:57 EET 2020
-shaderPack=Sildurs Enhanced Default v1.11.zip
+shaderPack=Enhanced Default v1.12
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
