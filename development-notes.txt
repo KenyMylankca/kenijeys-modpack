@@ -5,8 +5,8 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+shader sky bug
 add old recipes back
-world leaked bug?...
 
 RBP:
 GC crash?
