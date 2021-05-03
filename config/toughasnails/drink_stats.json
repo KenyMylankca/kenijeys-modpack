@@ -1607,5 +1607,15 @@
     "thirst": 2,
     "hydration": 0.7,
     "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "dungeontactics:cherry_bomb",
+      "metadata": 0
+    },
+    "thirst": 1,
+    "hydration": 0.7,
+    "poisonChance": 0.0
   }
 ]
