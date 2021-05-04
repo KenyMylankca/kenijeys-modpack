@@ -56,6 +56,15 @@
   },
   {
     "state": {
+      "block": "realistictorches:torch_lit",
+      "properties": {
+        "facing": "*"
+      }
+    },
+    "temperature": 2.0
+  },
+  {
+    "state": {
       "block": "biomesoplenty:hot_spring_water",
       "properties": {}
     },
