@@ -65,6 +65,15 @@
   },
   {
     "state": {
+      "block": "actuallyadditions:block_tiny_torch",
+      "properties": {
+        "facing": "*"
+      }
+    },
+    "temperature": 1.0
+  },
+  {
+    "state": {
       "block": "biomesoplenty:hot_spring_water",
       "properties": {}
     },
