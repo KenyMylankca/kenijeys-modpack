@@ -1,4 +1,4 @@
-modpack version: 1.8.5
+modpack version: 1.8.6
 
 commands to reduce .git folder size:
 git bash
@@ -6,7 +6,6 @@ git gc --aggressive --prune
 
 to-do/to-fix/info:
 sacred springs biome support by dynamic trees
-shader sky bug
 
 RBP:
 GC crash?
