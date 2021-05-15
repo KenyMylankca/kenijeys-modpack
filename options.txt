@@ -97,7 +97,7 @@ key_keybind.togglehelmet.name:72
 key_keybind.togglechest.name:76
 key_keybind.togglelegs.name:75
 key_keybind.toggleboots.name:77
-key_key.toggle_shaders:71
+key_key.toggle_shaders:0
 key_Toggle StepUp:0
 key_key.pickup.item:0
 key_key.narrator:0
