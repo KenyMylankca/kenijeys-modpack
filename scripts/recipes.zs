@@ -7,6 +7,9 @@ recipes.remove(<techreborn:solar_panel:1>);
 recipes.remove(<techreborn:solar_panel:2>);
 recipes.remove(<techreborn:solar_panel:3>);
 recipes.remove(<techreborn:solar_panel:4>);
+recipes.remove(<tanaddons:temp_regulator>);
+recipes.remove(<tanaddons:portable_temp_regulator>);
+recipes.remove(<tanaddons:thirst_quencher>);
 
 
 //Additions
@@ -44,4 +47,22 @@ recipes.addShaped(<techreborn:solar_panel:4>, [
 	[<actuallyadditions:item_misc:5>, <actuallyadditions:item_misc:19>, <actuallyadditions:item_misc:5>],
 	[<techreborn:cable:8>, <techreborn:solar_panel:3>, <techreborn:cable:8>],
 	[<techreborn:part>, <techreborn:ev_transformer>, <techreborn:part>]
+]);
+
+recipes.addShaped(<tanaddons:temp_regulator>, [
+	[<openmodularturrets:intermediate_regular>, <techreborn:machine_casing>, <openmodularturrets:intermediate_regular>],
+	[<toughasnails:thermometer>, <techreborn:solid_fuel_generator>, <toughasnails:thermometer>],
+	[<actuallyadditions:item_battery>, <techreborn:machine_casing>, <actuallyadditions:item_battery>]
+]);
+
+recipes.addShaped(<tanaddons:portable_temp_regulator>, [
+	[<minecraft:iron_ingot>, <toughasnails:thermometer>, <minecraft:iron_ingot>],
+	[<openmodularturrets:intermediate_regular>, <actuallyadditions:item_misc:8>, <appliedenergistics2:material:26>],
+	[<minecraft:iron_ingot>, <actuallyadditions:item_battery>, <minecraft:iron_ingot>]
+]);
+
+recipes.addShaped(<tanaddons:thirst_quencher>, [
+	[<minecraft:iron_ingot>, <extrautils2:grocket:2>, <minecraft:iron_ingot>],
+	[<openmodularturrets:intermediate_regular>, <gendustry:mutagen_tank>, <appliedenergistics2:material:26>],
+	[<minecraft:iron_ingot>, <actuallyadditions:item_battery>, <minecraft:iron_ingot>]
 ]);
