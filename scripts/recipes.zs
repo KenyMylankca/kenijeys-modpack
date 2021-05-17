@@ -15,6 +15,10 @@ recipes.remove(<tanaddons:thirst_quencher>);
 //Additions
 
 recipes.addShapeless(<toughasnails:ice_cube> * 3, [<minecraft:ice>]);
+recipes.addShapeless(<toughasnails:wool_helmet>, [<toughasnails:wool_helmet:*>, <minecraft:wool:*>, <minecraft:string>]);
+recipes.addShapeless(<toughasnails:wool_chestplate>, [<toughasnails:wool_chestplate:*>, <minecraft:wool:*>, <minecraft:string>]);
+recipes.addShapeless(<toughasnails:wool_leggings>, [<toughasnails:wool_leggings:*>, <minecraft:wool:*>, <minecraft:string>]);
+recipes.addShapeless(<toughasnails:wool_boots>, [<toughasnails:wool_boots:*>, <minecraft:wool:*>, <minecraft:string>]);
 recipes.addShapeless(<hearthstonemod:hearthstone>, [<minecraft:quartz>, <tombstone:crafting_ingredient>]);
 recipes.addShapeless(<tconstruct:stone_torch> * 4, [<tconstruct:stone_stick>, <realistictorches:glowstone_crystal>]);
 recipes.addShapeless(<actuallyadditions:block_tiny_torch> * 2, [<tconstruct:stone_stick>, <realistictorches:glowstone_paste>]);
