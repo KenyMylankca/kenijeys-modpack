@@ -5,7 +5,6 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-fog bug in omnious biome bop?
 sacred springs biome support by dynamic trees
 
 RBP:
