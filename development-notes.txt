@@ -5,7 +5,9 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+AE2 ruins dynamic trees
 sacred springs biome support by dynamic trees
+ominous biome fog bug
 
 RBP:
 GC crash?
