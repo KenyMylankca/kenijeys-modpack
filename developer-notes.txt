@@ -1,16 +1,14 @@
-modpack version: 1.8.7
+modpack version: 1.8.8
 
 commands to reduce .git folder size:
 git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-AE2 ruins dynamic trees
+AE2 ruins dynamic trees, so many meteors!...
 sacred springs biome support by dynamic trees
-ominous biome fog bug
+ominous biome fog bug(disabled the biome)
 
-RBP:
-GC crash?
 
 		 ORE GENERATION
 magnesium (surface) & boron			OK
