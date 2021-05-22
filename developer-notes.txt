@@ -5,6 +5,8 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+currently foamfix crash
+inventory loss on death bug
 AE2 ruins dynamic trees, so many meteors!...
 sacred springs biome support by dynamic trees
 ominous biome fog bug(disabled the biome)
