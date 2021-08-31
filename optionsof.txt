@@ -1,5 +1,5 @@
 ofFogType:1
-ofFogStart:0.2
+ofFogStart:0.4
 ofMipmapType:3
 ofOcclusionFancy:false
 ofSmoothFps:true
