@@ -5,7 +5,7 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-AE2 ruins dynamic trees, so many meteors!...
+AE2 ruins dynamic trees, so many meteors!...(need to remove the one spawns where u spawn on world creation)
 sacred springs biome support by dynamic trees
 ominous biome fog bug(disabled the biome)
 
