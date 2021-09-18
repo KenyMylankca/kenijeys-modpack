@@ -1,4 +1,4 @@
-modpack version: 1.8.9
+modpack version: 1.8.10
 
 commands to reduce .git folder size:
 git bash
