@@ -10,6 +10,7 @@ recipes.remove(<techreborn:solar_panel:4>);
 recipes.remove(<tanaddons:temp_regulator>);
 recipes.remove(<tanaddons:portable_temp_regulator>);
 recipes.remove(<tanaddons:thirst_quencher>);
+recipes.remove(<realistictorches:glowstone_paste>);
 
 
 //Additions
@@ -22,6 +23,7 @@ recipes.addShapeless(<toughasnails:wool_boots>, [<toughasnails:wool_boots:*>, <m
 recipes.addShapeless(<hearthstonemod:hearthstone>, [<minecraft:quartz>, <tombstone:crafting_ingredient>]);
 recipes.addShapeless(<tconstruct:stone_torch> * 4, [<tconstruct:stone_stick>, <realistictorches:glowstone_crystal>]);
 recipes.addShapeless(<actuallyadditions:block_tiny_torch> * 2, [<tconstruct:stone_stick>, <realistictorches:glowstone_paste>]);
+recipes.addShapeless(<realistictorches:glowstone_paste> * 2, [<minecraft:glowstone_dust>, <minecraft:clay_ball>]);
 
 recipes.addShaped(<techreborn:nuke>, [
 	[<techreborn:dust:67>, <techreborn:part>, <techreborn:dust:67>],
