@@ -190,6 +190,7 @@ key_gui.xaero_zoom_out:74
 key_gui.xaero_new_waypoint:55
 key_gui.xaero_display_all_sets:0
 key_gui.xaero_toggle_light_overlay:0
+key_gui.xaero_toggle_entity_radar:0
 key_gui.xaero_minimap_settings:0
 soundCategory_master:1.0
 soundCategory_music:0.8028169
