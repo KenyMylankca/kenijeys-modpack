@@ -1,8 +1,8 @@
 version:1343
 invertYMouse:false
 mouseSensitivity:0.5
-fov:0.25
-gamma:1.0
+fov:0.3
+gamma:0.5
 saturation:0.0
 renderDistance:10
 guiScale:3
@@ -160,6 +160,10 @@ key_key.dragon_strike:80
 key_key.dragon_down:81
 key_key.dragon_change_view:65
 key_invtweaks.key.sort:21
+key_key.itemzoom.toggle:0
+key_key.itemzoom.hold:0
+key_key.itemzoom.zoom.in:0
+key_key.itemzoom.zoom.out:0
 key_Mo' Bends Menu:0
 key_Refresh Animations:68
 key_key.plustic_release_entity.desc:11
@@ -191,6 +195,7 @@ key_gui.xaero_new_waypoint:55
 key_gui.xaero_display_all_sets:0
 key_gui.xaero_toggle_light_overlay:0
 key_gui.xaero_toggle_entity_radar:0
+key_gui.xaero_reverse_entity_radar:0
 key_gui.xaero_minimap_settings:0
 soundCategory_master:1.0
 soundCategory_music:0.8028169
