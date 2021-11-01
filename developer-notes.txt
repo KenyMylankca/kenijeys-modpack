@@ -1,4 +1,4 @@
-modpack version: 1.8.13
+modpack version: 1.8.14
 forge version: 2855
 
 commands to reduce .git folder size:
@@ -6,6 +6,7 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+lag spike on travelling?
 AE2 ruins dynamic trees, so many meteors!...(need to remove the one spawns where u spawn on world creation)
 sacred springs biome support by dynamic trees
 ominous biome fog bug(disabled the biome)
