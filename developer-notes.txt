@@ -6,10 +6,12 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-lag spike on travelling?
-AE2 ruins dynamic trees, so many meteors!...(need to remove the one spawns where u spawn on world creation)
 sacred springs biome support by dynamic trees
 ominous biome fog bug(disabled the biome)
+
+1.18- issues:
+lag spike on travelling
+AE2 many meteors, they ruin dynamic trees and always spawn on spawn
 
 
 		 ORE GENERATION
