@@ -1,4 +1,4 @@
-modpack version: 1.8.16
+modpack version: 1.9
 forge version: 2860
 
 commands to reduce .git folder size:
@@ -17,11 +17,11 @@ AE2 many meteors, they ruin dynamic trees and always spawn on spawn
 		 ORE GENERATION
 magnesium (surface) & boron			OK
 
-all gems (diamond, emerald, coal, ruby etc...)	OK
-copper & gold & thorium				OK
-not charged quartz & black quartz& lithium	OK
+all gems (diamond, emerald, coal, ruby etc...)		OK
+copper & gold & thorium	& osmium			OK
+not charged quartz & black quartz& lithium		OK
 
-silver & galena	& mithril			OK
+silver & galena	& mithril & osmium		OK
 iron & tin					OK
 
 lapis						OK
