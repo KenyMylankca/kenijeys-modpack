@@ -105,13 +105,18 @@
         "block": "nuclearcraft:ore",
         "weight": 2,
 		"meta": 3
+      },
+	  {
+        "block": "mekanism:oreblock",
+        "weight": 4,
+		"meta": 0
       }
 	],
     "stone": "minecraft:stone",
     "rarity": 185,
     "min_y": 30,
     "max_y": 50,
-    "density": 90,
+    "density": 101,
     "vertical_size": 23,
     "horizontal_size": 22
   },
@@ -131,6 +136,11 @@
       },
 	  {
         "block": "dungeontactics:mithril_ore",
+        "weight": 1,
+		"meta": 0
+      },
+	  {
+        "block": "mekanism:oreblock",
         "weight": 1,
 		"meta": 0
       }
