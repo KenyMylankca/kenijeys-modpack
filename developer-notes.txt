@@ -9,7 +9,7 @@ to-do/to-fix/info:
 sacred springs biome support by dynamic trees
 ominous biome fog bug(disabled the biome)
 
-1.18- issues:
+1.12 issues:
 lag spike on travelling
 AE2 many meteors, they ruin dynamic trees and always spawn on spawn
 
