@@ -3,4 +3,4 @@ mods.initialinventory.InvHandler.addStartingItem(<iceandfire:sheep_chestplate>, 
 mods.initialinventory.InvHandler.addStartingItem(<iceandfire:sheep_leggings>, 37);
 mods.initialinventory.InvHandler.addStartingItem(<iceandfire:sheep_boots>, 36);
 mods.initialinventory.InvHandler.addStartingItem(<harshenuniverse:bloody_torch>, 4);
-mods.initialinventory.InvHandler.addStartingItem(<animalium:bear_claw_paxel>, 1);
+mods.initialinventory.InvHandler.addStartingItem(<animalium:bear_claw_paxel>, 0);
