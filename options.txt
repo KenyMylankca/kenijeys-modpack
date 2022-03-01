@@ -103,6 +103,12 @@ key_Toggle StepUp:0
 key_key.pickup.item:0
 key_key.narrator:0
 key_key.toggle_focus.desc:0
+key_key.backpacks.permission:0
+key_key.backpacks.openfirst:48
+key_key.backpacks.sorting.configure:70
+key_key.backpackloader.edit:0
+key_key.backpackloader.pause:197
+key_key.backpackloader.load:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
@@ -114,12 +120,6 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_key.backpacks.permission:0
-key_key.backpacks.openfirst:48
-key_key.backpacks.sorting.configure:70
-key_key.backpackloader.edit:0
-key_key.backpackloader.pause:197
-key_key.backpackloader.load:0
 key_keys.techreborn.config:0
 key_binniecore.key.hold.for.help.tooltips:15
 key_key.carry.desc:29
