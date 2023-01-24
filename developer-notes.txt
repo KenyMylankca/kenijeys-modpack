@@ -1,4 +1,4 @@
-modpack version: 1.9.6
+modpack version: 1.9.7
 forge version: 2860
 
 commands to reduce .git folder size:
@@ -11,8 +11,8 @@ ominous biome fog bug(disabled the biome)
 glitchy main menu...
 
 1.12 issues:
-lag spike on travelling
-AE2 many meteors, they ruin dynamic trees and always spawn on spawn
+lag spikes on travelling
+AE2 many meteors, they ruin dynamic trees and spawns near spawn
 
 
 		 ORE GENERATION
