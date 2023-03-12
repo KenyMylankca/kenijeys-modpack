@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.3
 gamma:0.40140846
 saturation:0.0
-renderDistance:12
+renderDistance:16
 guiScale:3
 particles:0
 bobView:true
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:false
+fullscreen:true
 enableVsync:false
 useVbo:true
 hideServerAddress:false
@@ -43,7 +43,7 @@ mipmapLevels:4
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
-entityShadows:false
+entityShadows:true
 mainHand:right
 attackIndicator:1
 showSubtitles:false

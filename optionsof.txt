@@ -1,4 +1,4 @@
-ofFogType:1
+ofFogType:2
 ofFogStart:0.4
 ofMipmapType:3
 ofOcclusionFancy:false
@@ -29,15 +29,15 @@ ofAnimatedTextures:true
 ofRainSplash:true
 ofLagometer:false
 ofShowFps:false
-ofAutoSaveTicks:4000
-ofBetterGrass:1
+ofAutoSaveTicks:14400
+ofBetterGrass:2
 ofConnectedTextures:2
 ofWeather:true
 ofSky:true
 ofStars:true
 ofSunMoon:true
 ofVignette:0
-ofChunkUpdates:1
+ofChunkUpdates:3
 ofChunkUpdatesDynamic:false
 ofTime:0
 ofClearWater:true
@@ -46,7 +46,7 @@ ofAfLevel:1
 ofProfiler:false
 ofBetterSnow:true
 ofSwampColors:true
-ofRandomEntities:false
+ofRandomEntities:true
 ofSmoothBiomes:true
 ofCustomFonts:true
 ofCustomColors:true
