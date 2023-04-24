@@ -9,8 +9,8 @@ radarHideInvisibleEntities:true
 #INGAME SETTINGS (DO NOT EDIT!)
 updateNotification:false
 minimap:true
-caveMaps:2
-caveZoom:1
+caveMaps:3
+caveZoom:0
 showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
@@ -18,7 +18,7 @@ deathpoints:true
 oldDeathpoints:false
 distance:1
 lockNorth:true
-zoom:2
+zoom:1
 minimapSize:0
 chunkGrid:-1
 slimeChunks:false
@@ -63,7 +63,7 @@ minimapTextAlign:0
 waypointsMutualEdit:true
 compassLocation:1
 compassScale:1
-caveMapsDepth:30
+caveMapsDepth:1
 hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100

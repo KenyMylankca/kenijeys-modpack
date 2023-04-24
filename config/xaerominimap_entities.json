@@ -54,10 +54,10 @@
             "displayed": true,
             "heightBasedFade": true,
             "renderOrder": 6.0,
+            "heightLimit": 2050.0,
+            "names": 2.0,
             "color": 15.0,
             "icons": 2.0,
-            "names": 2.0,
-            "heightLimit": 2050.0,
             "iconScale": 0.9
           },
           "subCategories": [
@@ -169,8 +169,8 @@
       "protection": true,
       "settingOverrides": {
         "displayed": false,
-        "color": 5.0,
-        "heightLimit": 370.0
+        "heightLimit": 370.0,
+        "color": 5.0
       },
       "subCategories": []
     }
