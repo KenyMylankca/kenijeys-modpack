@@ -9,20 +9,20 @@
   "name": "gui.xaero_entity_category_root",
   "protection": true,
   "settingOverrides": {
-    "displayed": true,
     "displayHeight": 0.0,
+    "displayed": true,
     "heightBasedFade": true,
     "renderOrder": 0.0,
     "color": 13.0,
     "displayNameWhenIconFails": true,
     "entityNumber": 100.0,
     "alwaysDisplayNametags": false,
-    "dotSize": 2.0,
     "startFadingAt": 0.0,
-    "renderOverMinimapFrame": 1.0,
+    "dotSize": 2.0,
+    "renderOverMinimapFrame": 0.0,
     "icons": 1.0,
-    "heightLimit": 20.0,
-    "names": 0.0,
+    "names": 2.0,
+    "heightLimit": 10.0,
     "iconScale": 1.0
   },
   "subCategories": [
@@ -37,6 +37,7 @@
       "name": "gui.xaero_entity_category_living",
       "protection": true,
       "settingOverrides": {
+        "displayed": false,
         "renderOrder": 2.0,
         "color": 14.0
       },
@@ -50,9 +51,14 @@
           "name": "gui.xaero_entity_category_players",
           "protection": true,
           "settingOverrides": {
+            "displayed": true,
+            "heightBasedFade": true,
             "renderOrder": 6.0,
+            "color": 15.0,
+            "icons": 2.0,
+            "names": 2.0,
             "heightLimit": 2050.0,
-            "color": 15.0
+            "iconScale": 0.9
           },
           "subCategories": [
             {
@@ -90,6 +96,7 @@
           "name": "gui.xaero_entity_category_hostile",
           "protection": true,
           "settingOverrides": {
+            "displayed": false,
             "renderOrder": 3.0
           },
           "subCategories": [
@@ -116,7 +123,9 @@
           "excludeList": [],
           "name": "gui.xaero_entity_category_friendly",
           "protection": true,
-          "settingOverrides": {},
+          "settingOverrides": {
+            "displayed": false
+          },
           "subCategories": [
             {
               "hardInclude": "tamed",
@@ -144,6 +153,7 @@
       "name": "gui.xaero_entity_category_items",
       "protection": true,
       "settingOverrides": {
+        "displayed": false,
         "renderOrder": 1.0,
         "color": 12.0
       },
@@ -158,7 +168,9 @@
       "name": "gui.xaero_entity_category_other_entities",
       "protection": true,
       "settingOverrides": {
-        "color": 5.0
+        "displayed": false,
+        "color": 5.0,
+        "heightLimit": 370.0
       },
       "subCategories": []
     }
