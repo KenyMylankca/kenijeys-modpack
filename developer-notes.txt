@@ -1,4 +1,4 @@
-modpack version: 1.10
+modpack version: 1.10.1
 forge version: 2860
 
 commands to reduce .git folder size:
@@ -6,7 +6,6 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-vanilla trees ruining dynamic trees somewhere(%10)
 sacred springs biome support by dynamic trees
 glitchy main menu...
 
