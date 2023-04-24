@@ -11,7 +11,7 @@ sacred springs biome support by dynamic trees
 glitchy main menu...
 
 1.12 issues:
-lag spikes on travelling
+lag spikes while travelling
 AE2 many meteors, they ruin dynamic trees and spawns near spawn
 
 
