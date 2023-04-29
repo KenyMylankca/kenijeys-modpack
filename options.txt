@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["stacked.zip","3dmodels.zip","special.zip"]
+resourcePacks:["stacked.zip","32x_everything_and_3d.zip","special.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
