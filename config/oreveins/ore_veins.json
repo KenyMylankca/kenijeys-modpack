@@ -16,12 +16,12 @@
       }
     ],
     "stone": "minecraft:stone",
-    "rarity": 300,
+    "rarity": 666,
     "min_y": 10,
-    "max_y": 100,
+    "max_y": 50,
     "density": 500,
     "vertical_size": 15,
-    "horizontal_size": 16
+    "horizontal_size": 14
   },
   
   "energy_stone": {
@@ -37,10 +37,10 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 190,
+    "rarity": 433,
     "min_y": 10,
     "max_y": 55,
-    "density": 100,
+    "density": 150,
     "vertical_size": 32,
     "horizontal_size": 9
   },
@@ -64,9 +64,9 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 170,
+    "rarity": 333,
     "min_y": 10,
-    "max_y": 70,
+    "max_y": 80,
     "density": 110,
     "vertical_size": 22,
     "horizontal_size": 9
@@ -81,9 +81,9 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 180,
+    "rarity": 303,
     "min_y": 14,
-    "max_y": 44,
+    "max_y": 64,
     "density": 100,
     "vertical_size": 3,
     "horizontal_size": 26
@@ -113,11 +113,11 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 245,
+    "rarity": 555,
     "min_y": 30,
     "max_y": 60,
-    "density": 101,
-    "vertical_size": 23,
+    "density": 131,
+    "vertical_size": 21,
     "horizontal_size": 22
   },
   
@@ -146,8 +146,8 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 250,
-    "min_y": 21,
+    "rarity": 404,
+    "min_y": 31,
     "max_y": 58,
     "density": 90,
     "vertical_size": 17,
@@ -168,10 +168,10 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 200,
-    "min_y": 25,
-    "max_y": 55,
-    "density": 115,
+    "rarity": 450,
+    "min_y": 20,
+    "max_y": 75,
+    "density": 125,
     "vertical_size": 18,
     "horizontal_size": 20
   },
@@ -191,11 +191,11 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 191,
+    "rarity": 301,
     "min_y": 55,
     "max_y": 84,
     "density": 120,
-    "vertical_size": 4,
+    "vertical_size": 5,
     "horizontal_size": 20
   },
   
@@ -219,9 +219,9 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 199,
+    "rarity": 305,
     "min_y": 14,
-    "max_y": 45,
+    "max_y": 55,
     "density": 120,
     "vertical_size": 19,
     "horizontal_size": 19
@@ -237,7 +237,7 @@
       }
 	],
     "stone": "minecraft:stone",
-    "rarity": 181,
+    "rarity": 271,
     "min_y": 14,
     "max_y": 80,
     "density": 170,
