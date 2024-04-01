@@ -1,0 +1,22 @@
+#Mon Apr 01 14:02:51 EEST 2024
+animationSpeed=0.25
+Caustics=true
+Cloud_reflection=true
+Cloudsblur=false
+ColoredShadows=false
+Depth_of_Field=true
+Godrays=false
+iceRefl=true
+metallicRefl=true
+morningFog=true
+polishedRefl=true
+RainReflections=true
+raytracedShadows=true
+Refraction=true
+smoothDof=false
+SSDO=true
+TAA=true
+uwatertint=false
+Volumetric_Lighting=true
+waterRefl=true
+Waving_Water=false
