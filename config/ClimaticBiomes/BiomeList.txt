@@ -93,6 +93,7 @@ biomesoplenty:meadow
 biomesoplenty:moor
 biomesoplenty:mountain
 biomesoplenty:mystic_grove
+biomesoplenty:ominous_woods
 biomesoplenty:orchard
 biomesoplenty:outback
 biomesoplenty:overgrown_cliffs
