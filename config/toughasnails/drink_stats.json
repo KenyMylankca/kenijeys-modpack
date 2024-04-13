@@ -1344,7 +1344,7 @@
       "name": "harvestcraft:tomatoitem",
       "metadata": 0
     },
-    "thirst": 1,
+    "thirst": 3,
     "hydration": 1.0,
     "poisonChance": 0.0
   },
@@ -1617,5 +1617,25 @@
     "thirst": 1,
     "hydration": 0.9,
     "poisonChance": 0.2
+  },
+  
+  {
+    "item": {
+      "name": "harvestcraft:kohlrabiitem",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 1.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "harvestcraft:celeryitem",
+      "metadata": 0
+    },
+    "thirst": 2,
+    "hydration": 1.2,
+    "poisonChance": 0.0
   }
 ]
