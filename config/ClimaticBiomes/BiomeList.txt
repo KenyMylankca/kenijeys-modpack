@@ -177,7 +177,8 @@ climaticbiomesjbg:subtropical_river
 climaticbiomesjbg:tropical_river
 climaticbiomesjbg:coastal_waters
 climaticbiomesjbg:frozen_coastal_waters
-mocreatures:wyvernbiome
+mocreatures:wyvern_isles
+mocreatures:wyvern_desert_isles
 sugiforest:sugi_forest
 iceandfire:glacier
 nuclearcraft:nuclear_wasteland
