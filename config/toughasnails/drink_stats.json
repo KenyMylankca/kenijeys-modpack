@@ -664,7 +664,7 @@
       "name": "biomesoplenty:persimmon",
       "metadata": 0
     },
-    "thirst": 1,
+    "thirst": 3,
     "hydration": 0.9,
     "poisonChance": 0.0
   },
