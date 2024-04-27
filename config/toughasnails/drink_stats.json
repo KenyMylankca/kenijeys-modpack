@@ -1044,7 +1044,17 @@
       "name": "harvestcraft:cabbageitem",
       "metadata": 0
     },
-    "thirst": 2,
+    "thirst": 3,
+    "hydration": 1.7,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "harvestcraft:caulifloweritem",
+      "metadata": 0
+    },
+    "thirst": 3,
     "hydration": 1.7,
     "poisonChance": 0.0
   },
@@ -1164,7 +1174,7 @@
       "name": "harvestcraft:broccoliitem",
       "metadata": 0
     },
-    "thirst": 2,
+    "thirst": 3,
     "hydration": 1.7,
     "poisonChance": 0.0
   },
