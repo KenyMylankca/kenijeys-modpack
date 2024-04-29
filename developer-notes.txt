@@ -1,4 +1,4 @@
-modpack version: 1.14.2
+modpack version: 1.14.3
 forge version: 2860
 
 commands to reduce .git folder size:
@@ -6,6 +6,8 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
+weather foliage bug
+weather inside cloud bug
 sacred springs biome support by dynamic trees
 
 		 ORE GENERATION
