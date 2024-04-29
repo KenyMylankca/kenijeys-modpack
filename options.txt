@@ -169,8 +169,6 @@ key_mekanism.key.mode:0
 key_mekanism.key.armorMode:71
 key_mekanism.key.feetMode:0
 key_mekanism.key.voice:0
-key_Mo' Bends Menu:0
-key_Refresh Animations:68
 key_key.plustic_release_entity.desc:11
 key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
@@ -181,7 +179,7 @@ key_key.plustic_mots.desc:0
 key_key.arms.desc:0
 key_key.mod.desc:73
 key_key.head.desc:0
-key_tombstone.message.knowledge_of_death:0
+key_tombstone.message.knowledge_of_death:22
 key_key.trashslot.toggle:0
 key_key.trashslot.delete:211
 key_key.trashslot.deleteAll:0
