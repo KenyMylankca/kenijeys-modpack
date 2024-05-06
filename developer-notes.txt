@@ -6,7 +6,6 @@ git bash
 git gc --aggressive --prune
 
 to-do/to-fix/info:
-galacticraft fatal error spam game freeze and close at end
 weather foliage bug
 weather inside cloud bug
 sacred springs biome support by dynamic trees
