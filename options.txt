@@ -165,7 +165,7 @@ key_key.itemzoom.toggle:0
 key_key.itemzoom.hold:0
 key_key.itemzoom.zoom.in:0
 key_key.itemzoom.zoom.out:0
-key_mekanism.key.mode:0
+key_mekanism.key.mode:45
 key_mekanism.key.armorMode:71
 key_mekanism.key.feetMode:0
 key_mekanism.key.voice:0
