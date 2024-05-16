@@ -17,7 +17,7 @@
     ],
     "stone": "minecraft:stone",
     "rarity": 999,
-    "min_y": 10,
+    "min_y": 1,
     "max_y": 50,
     "density": 500,
     "vertical_size": 15,
