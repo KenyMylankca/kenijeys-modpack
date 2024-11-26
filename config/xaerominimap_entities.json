@@ -50,14 +50,35 @@
           "name": "gui.xaero_entity_category_players",
           "protection": true,
           "settingOverrides": {
-            "displayed": true,
             "renderOrder": 6.0,
             "heightLimit": 2050.0,
-            "names": 1.0,
-            "color": 15.0,
-            "icons": 2.0
+            "color": 15.0
           },
           "subCategories": [
+            {
+              "hardInclude": "nothing",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_friend",
+              "protection": true,
+              "settingOverrides": {},
+              "subCategories": []
+            },
+            {
+              "hardInclude": "tracked",
+              "includeList": [],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "gui.xaero_entity_category_tracked",
+              "protection": true,
+              "settingOverrides": {
+                "icons": 2.0
+              },
+              "subCategories": []
+            },
             {
               "hardInclude": "same-team",
               "includeList": [],
