@@ -1,4 +1,4 @@
-modpack version: 1.15
+modpack version: 1.15.2
 forge version: 2860
 
 commands to reduce .git folder size:
@@ -8,19 +8,3 @@ git gc --aggressive --prune
 to-do/to-fix/info:
 weather foliage bug + clouds sometimes inside
 sacred springs biome support by dynamic trees
-
-		 ORE GENERATION
-magnesium (surface) & boron			OK
-
-all gems (diamond, emerald, coal, ruby etc...)		OK
-copper & gold & thorium	& osmium			OK
-not charged quartz & black quartz& lithium		OK
-
-silver & galena	& mithril & osmium		OK
-iron & tin					OK
-
-lapis						OK
-redstone & charged certus			OK
-
-bauxite & lead & silicon			OK
-uranium (deep)					OK
