@@ -21,6 +21,26 @@
   
   {
     "item": {
+      "name": "minecraft:golden_apple",
+      "metadata": 0
+    },
+    "thirst": 15,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
+      "name": "minecraft:golden_apple",
+      "metadata": 1
+    },
+    "thirst": 20,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
       "name": "minecraft:mushroom_stew",
       "metadata": 0
     },
