@@ -21,6 +21,16 @@
   
   {
     "item": {
+      "name": "minecraft:golden_carrot",
+      "metadata": 0
+    },
+    "thirst": 15,
+    "hydration": 1.0,
+    "poisonChance": 0.0
+  },
+  
+  {
+    "item": {
       "name": "minecraft:golden_apple",
       "metadata": 0
     },
