@@ -11,6 +11,7 @@ recipes.remove(<tanaddons:temp_regulator>);
 recipes.remove(<tanaddons:portable_temp_regulator>);
 recipes.remove(<tanaddons:thirst_quencher>);
 recipes.remove(<realistictorches:glowstone_paste>);
+mods.GalacticraftTweaker.removeCompressorRecipe(<spacex:compressed_alli>);
 
 
 //Additions
@@ -24,6 +25,7 @@ recipes.addShapeless(<hearthstonemod:hearthstone>, [<minecraft:quartz>, <tombsto
 recipes.addShapeless(<tconstruct:stone_torch> * 4, [<tconstruct:stone_stick>, <realistictorches:glowstone_crystal>]);
 recipes.addShapeless(<actuallyadditions:block_tiny_torch> * 2, [<tconstruct:stone_stick>, <realistictorches:glowstone_paste>]);
 recipes.addShapeless(<realistictorches:glowstone_paste> * 2, [<minecraft:glowstone_dust>, <minecraft:clay_ball>]);
+mods.GalacticraftTweaker.addCompressorShapelessRecipe(<spacex:compressed_alli>, <techreborn:ingot:0>, <nuclearcraft:ingot:6>);
 
 recipes.addShaped(<techreborn:nuke>, [
 	[<techreborn:dust:67>, <techreborn:part>, <techreborn:dust:67>],
