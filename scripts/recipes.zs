@@ -30,7 +30,7 @@ mods.GalacticraftTweaker.addCompressorShapelessRecipe(<spacex:compressed_alli>, 
 recipes.addShaped(<techreborn:nuke>, [
 	[<techreborn:dust:67>, <techreborn:part>, <techreborn:dust:67>],
 	[<actuallyadditions:item_phantom_connector>, <techreborn:machine_frame:1>, <actuallyadditions:item_phantom_connector>],
-	[<techreborn:dust:67>, <extrautils2:unstableingots>, <techreborn:dust:67>]
+	[<techreborn:dust:67>, <nuclearcraft:rad_x>, <techreborn:dust:67>]
 ]);
 
 recipes.addShaped(<techreborn:solar_panel:1>, [
@@ -70,7 +70,7 @@ recipes.addShaped(<tanaddons:portable_temp_regulator>, [
 ]);
 
 recipes.addShaped(<tanaddons:thirst_quencher>, [
-	[<minecraft:iron_ingot>, <extrautils2:grocket:2>, <minecraft:iron_ingot>],
+	[<minecraft:iron_ingot>, <galacticraftplanets:item_basic_mars:6>, <minecraft:iron_ingot>],
 	[<openmodularturrets:intermediate_regular>, <gendustry:mutagen_tank>, <appliedenergistics2:material:26>],
 	[<minecraft:iron_ingot>, <actuallyadditions:item_battery>, <minecraft:iron_ingot>]
 ]);
