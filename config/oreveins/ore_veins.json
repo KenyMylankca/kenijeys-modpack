@@ -19,7 +19,7 @@
     "rarity": 999,
     "min_y": 1,
     "max_y": 50,
-    "density": 500,
+    "density": 400,
     "vertical_size": 15,
     "horizontal_size": 14
   },
@@ -116,7 +116,7 @@
     "rarity": 777,
     "min_y": 30,
     "max_y": 60,
-    "density": 131,
+    "density": 110,
     "vertical_size": 21,
     "horizontal_size": 22
   },
@@ -194,7 +194,7 @@
     "rarity": 501,
     "min_y": 55,
     "max_y": 84,
-    "density": 120,
+    "density": 100,
     "vertical_size": 5,
     "horizontal_size": 20
   },
@@ -222,7 +222,7 @@
     "rarity": 505,
     "min_y": 14,
     "max_y": 55,
-    "density": 120,
+    "density": 110,
     "vertical_size": 19,
     "horizontal_size": 19
   },
@@ -240,7 +240,7 @@
     "rarity": 471,
     "min_y": 14,
     "max_y": 80,
-    "density": 170,
+    "density": 145,
     "vertical_size": 18,
     "horizontal_size": 15
   }
