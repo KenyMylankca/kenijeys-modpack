@@ -148,6 +148,7 @@ key_key.dungeontactics.trinket1.desc:41
 key_key.dungeontactics.trinket2.desc:0
 key_key.dungeontactics.trinket3.desc:0
 key_key.dungeontactics.trinket4.desc:0
+key_Dynamic Lights toggle:0
 key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_key.mod_lavacow.special:0
 key_key.mod_lavacow.down:0
