@@ -116,7 +116,8 @@ key_key.jei.recipeBack:14
 key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
-key_key.jei.toggleBookmarkOverlay:0
+key_key.hei.toggleBookmarkOverlay:0
+key_key.hei.crafting:0
 key_key.toggle_focus.desc:0
 key_key.backpacks.permission:0
 key_key.backpacks.openfirst:48
