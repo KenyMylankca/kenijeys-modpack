@@ -172,6 +172,7 @@
       "name": "gui.xaero_entity_category_items",
       "protection": true,
       "settingOverrides": {
+        "displayed": false,
         "renderOrder": 1.0,
         "color": 12.0
       },
