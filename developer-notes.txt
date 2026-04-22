@@ -1,4 +1,4 @@
-modpack version: 1.19B2
+modpack version: 1.19B3
 forge version: 2864
 
 commands to reduce .git folder size:
