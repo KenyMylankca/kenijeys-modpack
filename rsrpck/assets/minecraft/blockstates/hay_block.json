@@ -1,8 +1,7 @@
 {
-    "__comment": "Fair warning, this format is highly likely to change even more in the future!",
     "variants": {
-        "upright":  { "model": "hay" },
-        "side_n":   { "model": "hay_side", "x": 90  },
-        "side_e":   { "model": "hay_side", "y": 90, "x": 90 }
+        "axis=y": {"model": "hay_block"         },
+        "axis=x": {"model": "hay_block", "x": 90, "y": 90},
+        "axis=z": {"model": "hay_block", "x": 90 }
     }
 }
