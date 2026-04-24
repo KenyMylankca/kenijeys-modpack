@@ -85,9 +85,15 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_flare.key.start_sampling:0
+key_flare.key.stop_sampling:0
+key_flare.key.start_client_sampling:0
+key_flare.key.stop_client_sampling:0
+key_flare.key.open_tick_tracking_menu:0
 key_Galaxy Map:50
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
+key_keybind.baublesinventory:0
 key_key.conarm.toggle_helm.desc:20
 key_key.conarm.toggle_chest.desc:25
 key_key.conarm.toggle_leg.desc:34
@@ -97,11 +103,14 @@ key_keybind.togglechest.name:76
 key_keybind.togglelegs.name:75
 key_keybind.toggleboots.name:77
 key_key.namepain.showCulled:0
-key_key.toggle_shaders:0
 key_Toggle StepUp:0
 key_key.pickup.item:0
-key_key.narrator:0
 key_key.toggle_focus.desc:0
+key_key.open_wireless_terminal.desc:0
+key_key.open_wireless_crafting_terminal.desc:0
+key_key.open_wireless_pattern_terminal.desc:0
+key_key.open_wireless_fluid_terminal.desc:0
+key_key.open_wireless_interface_terminal.desc:0
 key_key.backpacks.permission:0
 key_key.backpacks.openfirst:48
 key_key.backpacks.sorting.configure:70
@@ -152,7 +161,6 @@ key_key.dungeontactics.trinket1.desc:41
 key_key.dungeontactics.trinket2.desc:0
 key_key.dungeontactics.trinket3.desc:0
 key_key.dungeontactics.trinket4.desc:0
-key_Dynamic Lights toggle:0
 key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_key.mod_lavacow.special:0
 key_key.mod_lavacow.down:0
@@ -173,7 +181,7 @@ key_mekanism.key.mode:45
 key_mekanism.key.armorMode:71
 key_mekanism.key.feetMode:0
 key_mekanism.key.voice:0
-key_key.plustic_release_entity.desc:11
+key_key.plustic_release_entity.desc:0
 key_key.plustic_toggle_gui.desc:23
 key_key.plustic_set_portal.desc:49
 key_key.plustic_brown_magic.desc:24
@@ -188,6 +196,7 @@ key_tombstone.message.knowledge_of_death:22
 key_key.trashslot.toggle:0
 key_key.trashslot.delete:211
 key_key.trashslot.deleteAll:0
+key_keybind.universaltweaks.clear_toasts:0
 key_wi-zoom.zoom:46
 key_gui.xaero_minimap_settings:0
 key_gui.xaero_minimap_server_profiles:0
