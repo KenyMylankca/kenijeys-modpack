@@ -1,0 +1,10 @@
+{
+  "selectedVersion": "0.5.8-alpha",
+  "latestVersion": "0.5.8-alpha",
+  "targetJavaVersion": "J25",
+  "targetVendor": "ORACLE",
+  "javaPath": "C:\\Program Files\\Java\\jdk-25.0.2\\bin\\javaw.exe",
+  "args": "-XX:+UseCompactObjectHeaders ",
+  "autoSetup": true,
+  "enableRelauncher": true
+}
