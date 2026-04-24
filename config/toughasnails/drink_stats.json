@@ -1611,40 +1611,20 @@
   
   {
     "item": {
-      "name": "natura:soups",
+      "name": "natura:berry_medley",
       "metadata": 0
     },
-    "thirst": 2,
+    "thirst": 8,
     "hydration": 0.9,
     "poisonChance": 0.0
   },
   
   {
     "item": {
-      "name": "natura:soups",
-      "metadata": 1
+      "name": "natura:glowshroom_stew",
+      "metadata": 0
     },
-    "thirst": 2,
-    "hydration": 0.9,
-    "poisonChance": 0.0
-  },
-  
-  {
-    "item": {
-      "name": "natura:soups",
-      "metadata": 2
-    },
-    "thirst": 2,
-    "hydration": 0.9,
-    "poisonChance": 0.0
-  },
-  
-  {
-    "item": {
-      "name": "natura:soups",
-      "metadata": 3
-    },
-    "thirst": 2,
+    "thirst": 14,
     "hydration": 0.9,
     "poisonChance": 0.0
   },

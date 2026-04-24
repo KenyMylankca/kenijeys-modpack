@@ -7,9 +7,9 @@ recipes.remove(<techreborn:solar_panel:1>);
 recipes.remove(<techreborn:solar_panel:2>);
 recipes.remove(<techreborn:solar_panel:3>);
 recipes.remove(<techreborn:solar_panel:4>);
-recipes.remove(<tanaddons:temp_regulator>);
-recipes.remove(<tanaddons:portable_temp_regulator>);
-recipes.remove(<tanaddons:thirst_quencher>);
+recipes.remove(<survivaltools:central_air_unit>);
+recipes.remove(<survivaltools:portable_purifier>);
+recipes.remove(<survivaltools:portable_regulator>);
 recipes.remove(<realistictorches:glowstone_paste>);
 mods.GalacticraftTweaker.removeCompressorRecipe(<spacex:compressed_alli>);
 
@@ -57,20 +57,20 @@ recipes.addShaped(<techreborn:solar_panel:4>, [
 	[<techreborn:part>, <techreborn:ev_transformer>, <techreborn:part>]
 ]);
 
-recipes.addShaped(<tanaddons:temp_regulator>, [
+recipes.addShaped(<survivaltools:central_air_unit>, [
 	[<openmodularturrets:intermediate_regular>, <techreborn:machine_casing>, <openmodularturrets:intermediate_regular>],
 	[<toughasnails:thermometer>, <techreborn:solid_fuel_generator>, <toughasnails:thermometer>],
 	[<actuallyadditions:item_battery>, <techreborn:machine_casing>, <actuallyadditions:item_battery>]
 ]);
 
-recipes.addShaped(<tanaddons:portable_temp_regulator>, [
-	[<minecraft:iron_ingot>, <toughasnails:thermometer>, <minecraft:iron_ingot>],
-	[<openmodularturrets:intermediate_regular>, <actuallyadditions:item_misc:8>, <appliedenergistics2:material:26>],
+recipes.addShaped(<survivaltools:portable_purifier>, [
+	[<minecraft:iron_ingot>, <galacticraftplanets:item_basic_mars:6>, <minecraft:iron_ingot>],
+	[<openmodularturrets:intermediate_regular>, <gendustry:mutagen_tank>, <appliedenergistics2:material:26>],
 	[<minecraft:iron_ingot>, <actuallyadditions:item_battery>, <minecraft:iron_ingot>]
 ]);
 
-recipes.addShaped(<tanaddons:thirst_quencher>, [
-	[<minecraft:iron_ingot>, <galacticraftplanets:item_basic_mars:6>, <minecraft:iron_ingot>],
-	[<openmodularturrets:intermediate_regular>, <gendustry:mutagen_tank>, <appliedenergistics2:material:26>],
+recipes.addShaped(<survivaltools:portable_regulator>, [
+	[<minecraft:iron_ingot>, <toughasnails:thermometer>, <minecraft:iron_ingot>],
+	[<openmodularturrets:intermediate_regular>, <actuallyadditions:item_misc:8>, <appliedenergistics2:material:26>],
 	[<minecraft:iron_ingot>, <actuallyadditions:item_battery>, <minecraft:iron_ingot>]
 ]);
