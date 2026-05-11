@@ -1,0 +1,8 @@
+{
+  "configVersion": 3,
+  "windMode": "NONE",
+  "capeStyle": "SMOOTH",
+  "capeMovement": "BASIC_SIMULATION",
+  "gravity": 31,
+  "heightMultiplier": 7
+}
