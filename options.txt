@@ -90,13 +90,13 @@ key_flare.key.stop_sampling:0
 key_flare.key.start_client_sampling:0
 key_flare.key.stop_client_sampling:0
 key_flare.key.open_tick_tracking_menu:0
+key_key.conarm.toggle_helm.desc:20
+key_key.conarm.toggle_chest.desc:25
+key_key.conarm.toggle_leg.desc:34
 key_Galaxy Map:50
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
 key_keybind.baublesinventory:0
-key_key.conarm.toggle_helm.desc:20
-key_key.conarm.toggle_chest.desc:25
-key_key.conarm.toggle_leg.desc:34
 key_Flying Mount Descent (Mo' Creatures):0
 key_keybind.togglehelmet.name:72
 key_keybind.togglechest.name:76
@@ -111,12 +111,6 @@ key_key.open_wireless_crafting_terminal.desc:0
 key_key.open_wireless_pattern_terminal.desc:0
 key_key.open_wireless_fluid_terminal.desc:0
 key_key.open_wireless_interface_terminal.desc:0
-key_key.backpacks.permission:0
-key_key.backpacks.openfirst:48
-key_key.backpacks.sorting.configure:70
-key_key.backpackloader.edit:0
-key_key.backpackloader.pause:197
-key_key.backpackloader.load:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
@@ -133,6 +127,12 @@ key_key.hei.bookmarkToTop:30:SHIFT
 key_key.hei.recipeBookmark:30:CONTROL
 key_key.hei.toggleBookmarkOverlay:0
 key_key.hei.crafting:0
+key_key.backpacks.permission:0
+key_key.backpacks.openfirst:48
+key_key.backpacks.sorting.configure:70
+key_key.backpackloader.edit:0
+key_key.backpackloader.pause:197
+key_key.backpackloader.load:0
 key_keys.techreborn.config:0
 key_binniecore.key.hold.for.help.tooltips:15
 key_key.carry.desc:29
