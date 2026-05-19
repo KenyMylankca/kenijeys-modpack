@@ -7,3 +7,6 @@ git gc --aggressive --prune
 
 to-do/to-fix/info:
 sacred springs biome support by dynamic trees
+
+seeds:
+in a pretty plain/hills with some big trees etc: -6465255643748707736, destination: -1080, 4470
