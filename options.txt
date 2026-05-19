@@ -97,6 +97,7 @@ key_Galaxy Map:50
 key_Open Spaceship Inventory:33
 key_Toggle Sensor Goggles Mode:37
 key_keybind.baublesinventory:0
+key_key.fart.desc:0
 key_Flying Mount Descent (Mo' Creatures):0
 key_keybind.togglehelmet.name:72
 key_keybind.togglechest.name:76
