@@ -1,0 +1,28 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:mutated_ice_flats"
+      }
+    ],
+    [
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "overworld"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "snowy"
+      },
+      {
+        "type": "BIOME_DICT",
+        "negate": false,
+        "value": "plains"
+      }
+    ]
+  ]
+}

@@ -104,6 +104,7 @@ key_keybind.togglelegs.name:75
 key_keybind.toggleboots.name:77
 key_Flying Mount Descent (Mo' Creatures):0
 key_key.namepain.showCulled:0
+key_key.ability.nanohsbaublesability:0
 key_key.pickup.item:0
 key_key.toggle_focus.desc:0
 key_key.open_wireless_terminal.desc:0
@@ -124,9 +125,12 @@ key_key.hei.previousCategory:201:SHIFT
 key_key.hei.nextCategory:209:SHIFT
 key_key.jei.bookmark:30
 key_key.hei.bookmarkToTop:30:SHIFT
-key_key.hei.recipeBookmark:30:CONTROL
+key_key.hei.bookmarkNewGroup:30:CONTROL
+key_key.hei.bookmarkNewGroupToTop:0
 key_key.hei.toggleBookmarkOverlay:0
 key_key.hei.crafting:0
+key_key.hei.moveGroupUp:200:SHIFT
+key_key.hei.moveGroupDown:208:SHIFT
 key_key.backpacks.permission:0
 key_key.backpacks.openfirst:48
 key_key.backpacks.sorting.configure:70
