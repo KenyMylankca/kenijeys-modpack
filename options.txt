@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:false
-resourcePacks:["stacked.zip","32x_everything_and_3d.zip","special.zip"]
+resourcePacks:["32x_everything_and_3d.zip","special.zip","AnimEmis_InF_SW_Blue_9.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
