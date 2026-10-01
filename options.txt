@@ -131,6 +131,7 @@ key_key.hei.toggleBookmarkOverlay:0
 key_key.hei.crafting:0
 key_key.hei.moveGroupUp:200:SHIFT
 key_key.hei.moveGroupDown:208:SHIFT
+key_key.aquaacrobaticsunofficial.toggle_crawling:45
 key_key.backpacks.permission:0
 key_key.backpacks.openfirst:48
 key_key.backpacks.sorting.configure:70
@@ -169,7 +170,7 @@ key_dsurround.cfg.keybind.AnimaniaBadges:0
 key_key.mod_lavacow.special:0
 key_key.mod_lavacow.down:0
 key_key.telering.description:56
-key_key.minering.description:47
+key_key.minering.description:0
 key_key.open_inventory.description:35
 key_waila.keybind.wailaconfig:0
 key_waila.keybind.wailadisplay:0
@@ -181,7 +182,7 @@ key_key.itemzoom.toggle:0
 key_key.itemzoom.hold:0
 key_key.itemzoom.zoom.in:0
 key_key.itemzoom.zoom.out:0
-key_mekanism.key.mode:45
+key_mekanism.key.mode:47
 key_mekanism.key.armorMode:71
 key_mekanism.key.feetMode:0
 key_mekanism.key.voice:0
