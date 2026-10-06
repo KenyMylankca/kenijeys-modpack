@@ -37,7 +37,7 @@
       "liquid": {
         "block": "biomesoplenty:sand",
         "properties": {
-          "level": "0"
+          "level": "7"
         }
       },
       "amountPerChunk": 0.1,

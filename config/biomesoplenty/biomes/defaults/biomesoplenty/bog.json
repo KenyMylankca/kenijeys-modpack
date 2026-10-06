@@ -99,7 +99,7 @@
       "liquid": {
         "block": "biomesoplenty:poison",
         "properties": {
-          "level": "0"
+          "level": "7"
         }
       },
       "amountPerChunk": 0.1,
@@ -239,7 +239,7 @@
       "liquid": {
         "block": "minecraft:water",
         "properties": {
-          "level": "0"
+          "level": "8"
         }
       },
       "amountPerChunk": 1.0,

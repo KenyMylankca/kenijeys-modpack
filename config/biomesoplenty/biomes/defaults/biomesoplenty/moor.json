@@ -141,7 +141,7 @@
       "liquid": {
         "block": "minecraft:water",
         "properties": {
-          "level": "0"
+          "level": "8"
         }
       },
       "amountPerChunk": 1.5,

@@ -46,7 +46,7 @@
       "liquid": {
         "block": "biomesoplenty:hot_spring_water",
         "properties": {
-          "level": "0"
+          "level": "7"
         }
       },
       "amountPerChunk": 0.5,
@@ -120,7 +120,7 @@
       "liquid": {
         "block": "biomesoplenty:poison",
         "properties": {
-          "level": "0"
+          "level": "7"
         }
       },
       "amountPerChunk": 0.1,

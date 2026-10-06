@@ -46,7 +46,7 @@
       "liquid": {
         "block": "minecraft:lava",
         "properties": {
-          "level": "0"
+          "level": "8"
         }
       },
       "amountPerChunk": 4.0,
