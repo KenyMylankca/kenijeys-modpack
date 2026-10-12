@@ -146,6 +146,7 @@ galaxyspace:spacelowhills
 galaxyspace:spacemidhills
 asmodeuscore:-=|worldengine|=-
 asmodeuscore:-=|worldengine 2|=-
+iceandfire:glacier
 climaticbiomesjbg:subtropical_forest
 climaticbiomesjbg:tropical_forest
 climaticbiomesjbg:pine_swamp
@@ -176,7 +177,6 @@ climaticbiomesjbg:subtropical_river
 climaticbiomesjbg:tropical_river
 climaticbiomesjbg:coastal_waters
 climaticbiomesjbg:frozen_coastal_waters
-iceandfire:glacier
 sugiforest:sugi_forest
 mocreatures:wyvern_isles
 mocreatures:wyvern_desert_isles
