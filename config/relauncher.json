@@ -1,6 +1,6 @@
 {
-  "selectedVersion": "0.6.13-alpha",
-  "latestVersion": "0.6.13-alpha",
+  "selectedVersion": "0.7.12-alpha",
+  "latestVersion": "0.7.12-alpha",
   "targetJavaVersion": 25,
   "targetVendor": "Azul Zulu",
   "javaPath": "C:\\Program Files\\Java\\jdk-25.0.4.1\\bin\\javaw.exe",
