@@ -3,7 +3,7 @@
   "latestVersion": "0.7.12-alpha",
   "targetJavaVersion": 25,
   "targetVendor": "Azul Zulu",
-  "javaPath": "C:\\Program Files\\Java\\jdk-25.0.4.1\\bin\\javaw.exe",
+  "javaPath": "C:\\Program Files\\Java\\jdk-25.0.4\\bin\\javaw.exe",
   "args": "-XX:+AlwaysPreTouch -XX:+UseCompactObjectHeaders -XX:+UseZGC ",
   "autoSetup": true,
   "enableRelauncher": true,
